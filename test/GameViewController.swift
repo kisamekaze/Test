@@ -30,6 +30,7 @@ class GameViewController: UIViewController {
             view.showsFPS = true
             view.showsNodeCount = true
         }
+        // Mom get out of my room I'm playing minecraft!!
     }
 
     override var shouldAutorotate: Bool {
