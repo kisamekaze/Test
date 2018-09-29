@@ -36,7 +36,7 @@ class GameScene: SKScene {
                                               SKAction.removeFromParent()]))
         }
     }
-    
+    //Hello
     
     func touchDown(atPoint pos : CGPoint) {
         if let n = self.spinnyNode?.copy() as! SKShapeNode? {
